@@ -13,12 +13,12 @@ This tool takes a list of your favorite gemini sites and spits out corresponding
 
 Get the script:
 ```
-wget https://raw.githubusercontent.com/captaintouch/palmGemPlucker/main/generate.sh
-chmod +x generate.sh
+wget https://raw.githubusercontent.com/captaintouch/palmGemPlucker/main/palmGemPlucker.sh
+chmod +x palmGemPlucker.sh
 ```
 Open up the script and configure your favorite gemsites along with your device info (port used for pilot-xfer and device width)
 
-Once configured, just run ```./generate.sh``` from the path where you installed it
+Once configured, just run ```./palmGemPlucker.sh``` from the path where you installed it
 
 ## Thanks
 
